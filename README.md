@@ -9,7 +9,7 @@
 
 ## Description:
 
-It's an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+The challenge was to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. I used Express.js for routing, a MongoDB database, and the Mongoose ODM.
 
 ## Technology:
 
@@ -39,7 +39,10 @@ npm start
 
 #### Walkthrough Video
 
-[Click me to see the demo video!] (###)
+[Click to see the demo video!] (https://storyxpress.co/video/lonpc3gjmdo7vttot)
+
+#### GitHub Link
+https://github.com/mohanbeckford/social
 
 #### Insomnia Screenshot
 
